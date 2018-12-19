@@ -1,0 +1,14 @@
+{
+  "name": "chunky-bananas",
+  "version": "0.1.0",
+  "description": "The Default Chunky Bundle",
+  "author": {
+    "name": "I. Dan Calinescu",
+    "email": "dan@fluidtrends.com"
+  },
+  "keywords": "chunky, chunky bundle, chunky bananas bundle, chunky templates",
+  "license": "MIT",
+  "contributors": [],
+  "repository": "fluidtrends/chunky-bananas",
+  "homepage": "http://chunky.io"
+}
