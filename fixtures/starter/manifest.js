@@ -1,7 +1,7 @@
 module.exports = (props) => ({
   name: props.name || "Chunky",
   env: "dev",
-  id: props.name || "io.chunky",
+  id: props.id || "io.chunky",
   androidSdkDir: "~/Library/Android/sdk",
   sections: {
     start: {
