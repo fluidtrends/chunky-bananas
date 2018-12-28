@@ -9,10 +9,10 @@
         "image": "cover.r.png",
         "opacity": 0.5,
         "navigation": true,
-        "title": "More than Learning",
-        "subtitle": "Grow Your Tech Skills With Programming Challenges And Earn Experience Points",
+        "title": "Welcome",
+        "subtitle": "This is a cool intro",
         "type": "default",
-        "primaryActionTitle": "Start Your Learning Journey"
+        "primaryActionTitle": "Start Here"
       },
       "components": {
         "intro": {
