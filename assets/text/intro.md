@@ -1,3 +1,3 @@
-# Welcome to my site
+# Hey there
 
-## This was built with **Carmel**, the fastest, easiest and most fun way to climb the Digital Mountain. Ready to keep climbing? Let's go. And remember, always be climbing.
+## Welcome to my brand new website. I built it with Chunky, a ridiculously awesome development platform with a ton of personality.

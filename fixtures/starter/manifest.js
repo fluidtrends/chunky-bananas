@@ -11,8 +11,8 @@ module.exports = (props) => ({
   transitions: ["replace://start"],
   provisioning: {},
   theme: {
-    logoImage: "logo-white.png",
-    logoLightImage: "logo.png",
+    logoImage: "logo.gif",
+    logoLightImage: "logo.gif",
     headerColor: "#FF5722",
     textColor: "#546E7A",
     linkColor: "#0288D1",
