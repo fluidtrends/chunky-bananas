@@ -14,9 +14,9 @@ module.exports = (props) => ({
   },
   homepage: "http://www.chunky.io",
   dependencies: {
-    "react-dom-chunky": "0.x"
+    "react-dom-chunky": "latest"
   },
   devDependencies: {
-   "react-savor": "0.x"
+   "react-savor": "latest"
   }
 })
