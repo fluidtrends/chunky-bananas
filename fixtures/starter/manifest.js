@@ -51,7 +51,6 @@ module.exports = (props) => ({
     "https://unpkg.com/react-router/umd/react-router.min.js",
     "https://unpkg.com/react-router-dom/umd/react-router-dom.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.23.0/moment.min.js",
-    "https://unpkg.com/antd/umd/antd.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.3.1/markdown-it.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js",
     "https://www.gstatic.com/firebasejs/4.4.0/firebase.js",
