@@ -18,7 +18,7 @@
         "intro": {
           "source": "summary",
           "text": "local://intro",
-          "image": "logo.png",
+          "image": "logo.gif",
           "textColor": "#37474F"
         }
       }
