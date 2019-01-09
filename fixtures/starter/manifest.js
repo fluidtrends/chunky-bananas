@@ -40,6 +40,7 @@ module.exports = (props) => ({
     "https://unpkg.com/react-placeholder@2.0.0/lib/reactPlaceholder.css",
     "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/antd/3.4.5/antd.min.css",
     "/assets/style.css"
   ],
   scripts: [
@@ -49,13 +50,16 @@ module.exports = (props) => ({
     "https://unpkg.com/react-media/umd/react-media.min.js",
     "https://unpkg.com/react-router/umd/react-router.min.js",
     "https://unpkg.com/react-router-dom/umd/react-router-dom.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.23.0/moment.min.js",
+    "https://unpkg.com/antd/umd/antd.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.3.1/markdown-it.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js",
     "https://www.gstatic.com/firebasejs/4.4.0/firebase.js",
     "https://unpkg.com/material-components-web@0.40.1/dist/material-components-web.min.js",
     "https://unpkg.com/react-progressive-image@0.1.0/umd/react-progressive-image.min.js",
     "https://www.google.com/recaptcha/api.js",
-    "https://js.braintreegateway.com/web/dropin/1.14.1/js/dropin.min.js"
+    "https://js.braintreegateway.com/web/dropin/1.14.1/js/dropin.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/antd/3.4.5/antd.min.js"
   ],
   info: {
     copyright: props.copyright || "2019",
