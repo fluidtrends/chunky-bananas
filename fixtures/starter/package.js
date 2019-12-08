@@ -1,6 +1,6 @@
 module.exports = (props) => ({
   name: props.name || "Chunky",
-  version: props.version || "0.1.0",
+  version: props.version || "1.0.0",
   description: props.description || "This is Chunky",
   scripts: {
     test: "react-savor test",
@@ -14,7 +14,7 @@ module.exports = (props) => ({
   },
   homepage: "http://www.chunky.io",
   dependencies: {
-    "react-dom-chunky": "latest"
+    "react-dom-chunky": "^1.1.0"
   },
   devDependencies: {
    "react-savor": "latest"

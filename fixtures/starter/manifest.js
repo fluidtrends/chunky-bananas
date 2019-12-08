@@ -61,7 +61,7 @@ module.exports = (props) => ({
     "https://cdnjs.cloudflare.com/ajax/libs/antd/3.4.5/antd.min.js"
   ],
   info: {
-    copyright: props.copyright || "2019",
-    watermark: props.watermark || "Created with Chunky"
+    copyright: props.copyright || "2020",
+    watermark: props.watermark || "We ❤️Chunky"
   }
 })
